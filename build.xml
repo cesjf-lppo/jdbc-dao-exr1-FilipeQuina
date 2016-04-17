@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="jdbc-dao-exr1" default="default" basedir=".">
-    <description>Builds, tests, and runs the project jdbc-dao-exr1.</description>
+<project name="jdbc-dao-Filipe-Pacheco" default="default" basedir=".">
+    <description>Builds, tests, and runs the project jdbc-dao-Filipe-Pacheco.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
